@@ -1,7 +1,7 @@
 import vtk
 
 reader = vtk.vtkDICOMImageReader()
-reader.SetDirectoryName("Dicom/")
+reader.SetDirectoryName("C:/Users/Admin/Documents/Documents/Dicoms/bilmiyorum")
 reader.Update()
 
 volumeMapper = vtk.vtkFixedPointVolumeRayCastMapper()
