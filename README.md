@@ -5,7 +5,7 @@ VTK çalışmalarımda ilk denemelerimi yaptığım repo.
   <h3>medicalDicom.py</h3>
   <img src="https://github.com/user-attachments/assets/0aa40531-8f69-4e94-9877-cf09f4c6ed94" alt="Image 1" width="500" style="border-radius: 20px;">
   <hr>
-  <h3>SliceDicom.py.py</h3>
+  <h3>SliceDicom.py</h3>
   <img src="https://github.com/user-attachments/assets/963de1b3-7a35-42e1-8e81-eec8ccfdbcdb" alt="Image 2" width="500" style="border-radius: 20px;">
   <hr>
   <h3>isoSurface.py</h3>
